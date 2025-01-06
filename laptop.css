@@ -1,0 +1,43 @@
+﻿
+.logo{
+   z-index:1;
+}
+.navbar{
+    background-color:#fff;
+    color:#fff;
+    padding:10px;
+    margin: 10px;
+    border:10px;
+}
+table{
+    border-radius:50% solid white;
+    padding:60px;
+    margin: 60px;    
+}
+p{
+  font-size:30px;
+  color:black;
+}
+h1{
+   color:white;
+   background-color:black;
+   text-align:center;
+    font-family:Lucida Handwriting;
+}
+.header{
+   background-image: url("images/b.jpg");
+
+}
+.button{
+    background-color:blue;
+    border:round;
+    color:white;
+    padding:14px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    font-size:20px;
+    margin:10px 10px;
+    cursor:pointer;
+    border-radius:50%;
+}

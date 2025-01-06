@@ -1,0 +1,43 @@
+﻿.logo{
+   float:center;
+}
+
+h1{
+   color:white;
+   background-color:black;
+   text-align:center;
+   font-family:Lucida Handwriting;
+}
+p{
+  font-family:;
+  font-size:30px;
+  color:black;
+}
+.container{
+      background-image: url("images/b.jpg");
+}
+.header{
+    color:white;
+    background-color:black;
+}
+.navbar{
+     background-color:  ;
+     font-size:20px;
+     margin:5px;
+     padding:10px;
+}
+table{
+   height:30px;
+   width:30px;
+   padding:50px;
+   margin:50px;
+}
+h2 img:hover{
+	border:round;
+	border-radius:50%;
+	transform:scale(2,2);
+
+	
+}
+
+}

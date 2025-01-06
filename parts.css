@@ -1,0 +1,19 @@
+﻿.logo{
+   z-index:1;
+   float:center;
+}
+
+
+.header{
+  background-image: url("images/b.jpg");
+
+}
+.top{
+  color:white;
+  float:center;
+}
+h1{
+   background-color:black;
+   color:white;
+    font-family:Lucida Handwriting;
+}

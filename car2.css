@@ -1,0 +1,47 @@
+﻿.logo{
+   float:center;
+}
+
+h1{
+   color:white;
+   background-color:black;
+   text-align:center;
+    font-family:Lucida Handwriting;
+}
+p{
+  font-family:;
+  font-size:30px;
+  color:black;
+}
+ul{
+ color:black;
+}
+h3{
+  color:black;
+}
+.container{
+   background-image: url("images/b.jpg");
+
+}
+.navbar{
+    background-color:;
+    color:white;
+     font-size:20px;
+     margin:5px;
+     padding:10px;
+}
+.header{
+    color:white;
+    background-color:black;
+}
+.image{
+flew-wrap:wrap;
+display:inline;
+}
+.image :hover{
+border:round;
+border-radius:100%;
+transition:1s linear;
+transform:scale(2,2);
+opacity:0.7;
+}
